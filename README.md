@@ -12,6 +12,8 @@ Want to simultaneously adapt your writing style to different classes of readers?
 
 Look no further than our ProsePilot button! With just a simple HTML integration, your readers can easily change the writing style of your text to fit their preferences. Whether they prefer the simplicity of a summary or the elegance of a New York Times article, our button has got them covered. Plus, by integrating your own API keys with GPT-3, the prose can be generated at build time for even more customization options. Not only does this add an interactive element to your website, but it also improves accessibility by catering to individual user needs. Give your ideas a wider audience with the ProsePilot button.
 
+### [Try it out](https://yazdanz.github.io/ProsePilot/)
+
 ## Instructions for developers:
 
 ### ProsePilot™ can be added to any project in only 3 simple steps.
